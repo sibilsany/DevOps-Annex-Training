@@ -1,2 +1,5 @@
 .index.html.swo
 .index.html.swp
+*.txt
+*.pdf
+*.java
